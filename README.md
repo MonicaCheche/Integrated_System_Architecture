@@ -4,7 +4,7 @@ lab2: Integrated Systems Architecture: Digital Arithmetic and FPU Optimization
 
 Based on the provided project documentation, here is a structured README.md file you can use for your GitHub repository.
 
-# Design and Implementation of an IIR Filter
+## Design and Implementation of an IIR Filter
 
 This project focuses on the design, simulation, and VLSI implementation of a digital **Infinite Impulse Response (IIR) filter**, following both standard and advanced architectural approaches. It was developed as part of the **Integrated Systems Architecture** course at Politecnico di Torino (2024-2025).
 
